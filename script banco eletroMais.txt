@@ -1,0 +1,26 @@
+create database eletroMais
+
+consecionaria
+create table dealership(dealershipId int not null identity(1,1) primary key,
+dealershipName varchar(40) not null,
+state varchar(2) not null,
+khwPrice float not null)
+
+Perfil da casa
+create table houseProfile(houseProfileId int not null identity(1,1) primary key,
+houseName varchar(40) not null,
+dealership int not null
+constraint fk_dealership_prices foreign key (dealership) references dealership(dealershipId))
+
+eletronicos
+create table electronics(electronicsId int not null identity(1,1) primary key,
+electronicsName varchar(30) not null,
+electronicsPotency float not null,
+usageTimePerDay float not null,
+usedInHouse int not null,
+constraint fk_houseUse foreign key(usedInHouse) references houseProfile(houseProfileId))
+
+
+
+
+

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConsumoEletrico.api", "ApiConsumoEletrico\ApiConsumoEletrico.api.csproj", "{95597813-A848-4466-8138-D57271C561E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConsumoEletrico.Core", "ApiConsumoEletrico.Core\ApiConsumoEletrico.Core.csproj", "{9E126277-39E0-4616-86AA-FC848068D7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConsumoEletrico.CrossCutting.IoC", "ApiConsumoEletrico.CrossCutting.IoC\ApiConsumoEletrico.CrossCutting.IoC.csproj", "{7C4437CC-FDCF-46AD-85A8-A7E8E0830FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConsumoEletrico.Domain", "ApiConsumoEletrico.Domain\ApiConsumoEletrico.Domain.csproj", "{40AF1277-C1AC-4A28-923A-A6699C865D82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiConsumoEletrico.Persistence", "ApiConsumoEletrico.Persistence\ApiConsumoEletrico.Persistence.csproj", "{C7B800E0-D081-4A1D-A4C1-12B71BAD7120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95597813-A848-4466-8138-D57271C561E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95597813-A848-4466-8138-D57271C561E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95597813-A848-4466-8138-D57271C561E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95597813-A848-4466-8138-D57271C561E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E126277-39E0-4616-86AA-FC848068D7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E126277-39E0-4616-86AA-FC848068D7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E126277-39E0-4616-86AA-FC848068D7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E126277-39E0-4616-86AA-FC848068D7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C4437CC-FDCF-46AD-85A8-A7E8E0830FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C4437CC-FDCF-46AD-85A8-A7E8E0830FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C4437CC-FDCF-46AD-85A8-A7E8E0830FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C4437CC-FDCF-46AD-85A8-A7E8E0830FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40AF1277-C1AC-4A28-923A-A6699C865D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40AF1277-C1AC-4A28-923A-A6699C865D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40AF1277-C1AC-4A28-923A-A6699C865D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40AF1277-C1AC-4A28-923A-A6699C865D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B800E0-D081-4A1D-A4C1-12B71BAD7120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B800E0-D081-4A1D-A4C1-12B71BAD7120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B800E0-D081-4A1D-A4C1-12B71BAD7120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B800E0-D081-4A1D-A4C1-12B71BAD7120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E3C4AAC-87DF-47AE-8DE3-08CC54522414}
+	EndGlobalSection
+EndGlobal

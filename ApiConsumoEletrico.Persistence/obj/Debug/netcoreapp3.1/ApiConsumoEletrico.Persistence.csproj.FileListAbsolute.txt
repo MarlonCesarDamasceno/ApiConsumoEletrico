@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.deps.json
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.runtimeconfig.json
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.runtimeconfig.dev.json
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.dll
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.pdb
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.AssemblyInfo.cs
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.dll
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.pdb
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.genruntimeconfig.cache
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.dll
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.pdb
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Persistence\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.csproj.CopyComplete

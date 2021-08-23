@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Domain\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.deps.json
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Domain\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.dll
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Domain\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.pdb
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Domain\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Domain\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Domain\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.AssemblyInfo.cs
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Domain\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Domain\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.dll
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.Domain\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.pdb

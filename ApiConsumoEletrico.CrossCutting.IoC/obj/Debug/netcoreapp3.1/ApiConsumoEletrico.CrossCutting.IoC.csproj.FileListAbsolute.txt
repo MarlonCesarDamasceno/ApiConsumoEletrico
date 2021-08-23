@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.CrossCutting.IoC.deps.json
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.CrossCutting.IoC.dll
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.CrossCutting.IoC.pdb
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Core.dll
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.dll
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.dll
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Core.pdb
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Domain.pdb
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\bin\Debug\netcoreapp3.1\ApiConsumoEletrico.Persistence.pdb
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.CrossCutting.IoC.dll
+C:\Users\user\source\repos\ApiConsumoEletrico\ApiConsumoEletrico.CrossCutting.IoC\obj\Debug\netcoreapp3.1\ApiConsumoEletrico.CrossCutting.IoC.pdb
